@@ -9,7 +9,6 @@ tmp/
 *.bak
 *.swp
 *~.nib
-*.class
 local.properties
 .settings/
 .loadpath
@@ -121,3 +120,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,eclipse,java
+Day_01_Basic/.classpath
